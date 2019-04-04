@@ -1,5 +1,7 @@
 # Hello World! 
 
+Hoi Tsang was here
+
 No coding necessary to complete this tutorial, just a GitHub account. You don’t need to use the command line, or install Git (the version control software GitHub is built on) unless you want to.
 
 > Tip: Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
